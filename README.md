@@ -1,8 +1,6 @@
 # 2D-Local-Multiplayer-Racing-Game-Open-Processing
 A JavaScript-based local multiplayer racing game where two players compete to be the first to cross the finish line. The game features interactive elements like traffic cars, environmental objects (trees, buildings, mountains), realistic physics for collisions and movement, and dynamic weather effects.  
 
-oppr.org/s/XXXXXXXX
-
 ## Features
 
 - Two-player local multiplayer  
